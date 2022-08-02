@@ -1,1 +1,1 @@
-# girexercise
+# gitexercise
